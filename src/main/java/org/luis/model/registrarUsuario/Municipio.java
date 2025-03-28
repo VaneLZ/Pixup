@@ -1,4 +1,4 @@
-package org.luis.model;
+package org.luis.model.registrarUsuario;
 
 public class Municipio
 {
